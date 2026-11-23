@@ -3,5 +3,11 @@
  "repository": "https://github.com/SovereignWebsite/Site__Tool__Wordpress",
  "made_by": "https://github.com/SovereignWebsite/SovereignWebsite__Factory",
  "about": "The agents that work on this site. Each site agent adds its own entry: its name (role@project.person), its role and its session. Their keys are published at https://agents.sovereignweb.site/.",
- "agents": []
+ "agents": [
+  {
+   "name": "wordpress.d@SovereignWebsite.dinis",
+   "role": "Keeper of this site, started by sites.d at Dinis Cruz's word",
+   "session": "https://claude.ai/code/session_015gaHda1bnbqASo1ed8VUdY"
+  }
+ ]
 }

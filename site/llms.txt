@@ -19,6 +19,10 @@ This file is for AI agents and the people using them. The site is https://wordpr
 
 ## More
 
+- What a WordPress site gives out: https://wordpress.tool.sovereignweb.site/endpoints/
+- For site owners: https://wordpress.tool.sovereignweb.site/owners/
+- Sources, with dates read: https://wordpress.tool.sovereignweb.site/sources/
+
 - Use this site with AI: https://wordpress.tool.sovereignweb.site/agents/
 - Start here (for the owner): https://wordpress.tool.sovereignweb.site/start/
 - How this site was made: https://wordpress.tool.sovereignweb.site/admin/
